@@ -1,0 +1,12 @@
+HPos (no menu): 15 to the top, 16 to the bottom => 0 to 31, default 15 top to bottom
+VPos (no menu): 32 to the left, 31 to the right => 0 to 63, default to 32 left to right
+
+HSize: 15 min (top left), 31 max (top right) => 0 to 46, default to 15
+VSize: 16 min (top left), 10 max => 0 to 26, default to 16
+Brightness: 31 min, 32 max => 0 to 63, default to 31
+Contrast: 32 min, 31 max => 0 to 63, default to 32
+Hue: ?
+Saturation: ?
+Flick: ?
+Sharpness: ?
+OSD Background: 2 positions, looping
