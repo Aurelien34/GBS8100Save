@@ -5,5 +5,8 @@ https://easyeda.com/Bouz/GBS-8100-save
 <p>This card listens to key presses on a GBS8100 card, and replays the key presses at startup.</p>
 <p>The OpAmps on the card are used to make the inputs more readable, as they are very unstable and really hard to interpret otherwise.</p>
 <p>This is an Atmel ATTiny84 based project.</p>
-<p>Ths board in action:</p>
+<p>The board in action:</p>
 <p>https://www.youtube.com/watch?v=wcV1byq4-Yk</p>
+<p>Last addition: now uses an Arduino board (Pro mini or Nano) and detects video refresh rate changes in order to reapply settings. See GBS8100SaveWithSyncDetection.ino</p>
+<p>Explanations and demo here:</p>
+<p>https://www.youtube.com/watch?v=OCfcdlBVBqQ</p>
